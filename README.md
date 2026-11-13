@@ -87,3 +87,9 @@ Conclusão
 O projeto reúne conhecimentos de programação e eletrônica para desenvolver um reprodutor de músicas utilizando Arduino. Durante o desenvolvimento, foram realizadas a montagem do circuito, os testes dos componentes e a programação das funções de controle e reprodução das músicas.
 
 Este repositório reúne os arquivos do desenvolvimento, incluindo o circuito, os códigos e as informações necessárias para entender a montagem e o funcionamento do sistema.
+
+
+
+https://github.com/user-attachments/assets/2f4d272d-875b-4336-a3db-bad13310fc3f
+
+<img width="1920" height="820" alt="image" src="https://github.com/user-attachments/assets/a22d299c-c975-416f-a8e4-c78f2460cfbb" />
